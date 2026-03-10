@@ -1,0 +1,38 @@
+﻿Lagoon,Index,Region,Glaucum,Salinity_mean,Salinity_CV,Salinity_PC1,Salinity_PC2,Temp_PC1,Temp_PC2,Rain_PC1,Rain_PC2,Area,Perimeter,Circularity_ratio,Circularity_invert,Depth,Bank,Crabs,Vegetation,Naturalness,Hydrology,Human_disturbance,Ephemerality
+Aberthaw,ABE,UK,1,12.8,0.199,-3.7,-0.65,-0.28,0.96,-3.62,0.31,15644,770,0.331570757,0.67,1,Sloping,Absent,Rup_Cha,Semi,Percolation,Pristine,Stable
+Abraham's Bosom Lagoon,ABL,UK,0,21.6,0.192,-1.44,-0.49,-1.67,-1.98,0.42,0.72,16028,763,0.345971339,0.65,1.5,Variable,Present,Cha,Semi,Percolation,Significant,Stable
+Clevedon,CLE,UK,1,19.6,0.153,-1.9,-0.72,-0.26,0.66,-2.17,-1.19,16955,645,0.512139448,0.49,2.5,Steep,Present,Absent,Natural,Sluiced,Significant,Stable
+Cuckmere Haven,CUC,UK,1,18.7,0.521,0.96,1.28,0.52,0.85,1.09,-0.41,5595,363,0.533576513,0.47,0.5,Variable,Present,Rup,Semi,Percolation,Low,Significant
+Eight Acre,EAC,UK,1,33.5,0.0128,1.66,-2.23,-0.38,0.43,1.07,-0.48,27885,765,0.598766704,0.4,1.5,Sloping,Present,Rup_Cha,Semi,Sluiced,Significant,Stable
+Etang de Pierre Blanche,EPB,Mediterranean,1,31.4,0.27,1.02,0.76,5.77,-1.13,4.22,0.21,2685132,11762,0.24390076,0.76,0.85,Sloping,Present,Cha,Natural,Natural_channel,Significant,Moderate
+Etang de Perols,EPE,Mediterranean,0,27.6,0.555,0.77,1.7,5.77,-1.13,4.22,0.21,7333470,14901,0.415038662,0.58,0.6,Sloping,Present,Cha,Natural,Natural_channel,Significant,Stable
+Etang de Thau,ETH,Mediterranean,0,37,0.0405,2.58,-2.14,5.77,-1.13,4.22,0.21,67740000,60190,0.234966728,0.77,4.5,Sloping,Present,Cha,Semi,Artificial_channel,Significant,Stable
+Fleet,FLE,UK,1,29.77,0.2,-0.75,1.04,0.12,1.65,-2.1,2.05,5050000,31130,0.065485176,0.93,5.2,Variable,Present,Zos,Natural,Sea_inlet,Moderate,Stable
+Gilkicker ,GIL,UK,1,30.7,0.197,0.99,-0.43,0.3,0.65,-2.3,-0.76,31206,897,0.487374814,0.51,0.8,Steep,Present,Rup,Semi,Sea_inlet,Significant,Stable
+Holkham Salts Hole,HSH,UK,1,22.8,0.14,-1.04,-0.86,-1.67,-1.98,0.42,0.72,5207,289,0.783432811,0.22,2.8,Steep,Absent,Rup,Semi,Percolation,Low,Stable
+Kings Marshes 1,KM1,UK,1,18.4,0.715,-2.01,1.4,-1.26,-1.28,-0.24,-0.72,5264,532,0.233723553,0.77,0.36,Steep,Absent,Rup,Natural,Percolation,Pristine,Moderate
+Kings Marshes 13,KM13,UK,1,28.5,0.0893,0.4,-1.52,-1.26,-1.28,-0.24,-0.72,1037,182,0.393410407,0.61,0.2,Sloping,Absent,Cha,Natural,Percolation,Pristine,Moderate
+Kings Marshes 16,KM16,UK,1,29,0.11,0.56,-1.41,-1.26,-1.28,-0.24,-0.72,1108,228,0.267842772,0.73,0.4,Sloping,Absent,Absent,Natural,Percolation,Pristine,Moderate
+Kings Marshes 2,KM2,UK,1,23.9,0.763,-0.47,2.23,-1.26,-1.28,-0.24,-0.72,4258,281,0.677646003,0.32,0.5,Steep,Absent,Rup,Natural,Percolation,Pristine,Moderate
+Kings Marshes 23,KM23,UK,1,29.4,0.0795,0.62,-1.62,-1.26,-1.28,-0.24,-0.72,14371,878,0.234265223,0.77,0.25,Sloping,Absent,Cha,Natural,Percolation,Pristine,Significant
+Kings Marshes 25,KM25,UK,1,29.4,0.248,0.72,-0.52,-1.26,-1.28,-0.24,-0.72,6103,793,0.121957036,0.88,0.15,Sloping,Absent,Cha,Natural,Percolation,Pristine,Moderate
+Kings Marshes 2a,KM2a,UK,1,20.5,0.334,-1.58,-0.12,-1.26,-1.28,-0.24,-0.72,1029,152,0.559677777,0.44,0.36,Steep,Absent,Absent,Natural,Percolation,Pristine,Moderate
+Etang de L'Arnel,LAR,Mediterranean,0,27.7,0.421,0.33,2.08,5.77,-1.13,4.22,0.21,4604031,9916,0.588403256,0.41,0.6,Sloping,Present,Cha,Natural,Natural_channel,Significant,Significant
+Etang de L'Or,MAU,Mediterranean,1,20.1,0.383,-1.65,0.72,5.77,-1.13,4.22,0.21,30692435,39646,0.245381861,0.75,1.25,Sloping,Present,Absent,Semi,Artificial_channel,Significant,Stable
+Etang de Moures,MOU,Mediterranean,1,32.2,0.319,1.27,1.15,5.77,-1.13,4.22,0.21,13208347,21698,0.352548543,0.65,1,Sloping,Present,Rup,Natural,Natural_channel,Significant,Moderate
+Orford 0a,OR0a,UK,1,33.2,0.146,1.64,-0.88,-1.26,-1.28,-0.24,-0.72,9846,655,0.288394581,0.71,1.5,Variable,Present,Rup_Cha,Natural,Percolation,Pristine,Minimal
+Orford 0b,OR0b,UK,0,41.5,0.375,3.99,1.69,-1.26,-1.28,-0.24,-0.72,6155,448,0.385373541,0.61,0.5,Sloping,Absent,Absent,Natural,Percolation,Pristine,Significant
+Orford 1,OR1,UK,1,23.9,0.174,-0.79,-0.64,-1.26,-1.28,-0.24,-0.72,4158,296,0.596363324,0.4,1.5,Sloping,Absent,Cha,Natural,Percolation,Pristine,Minimal
+Orford 4,OR4,UK,0,24.6,0.181,-0.58,-0.7,-1.26,-1.28,-0.24,-0.72,158,93.7,0.226145406,0.77,0.25,Sloping,Absent,Cha,Natural,Percolation,Pristine,Significant
+Orford 5,OR5,UK,0,33.4,0.544,2.25,2.74,-1.26,-1.28,-0.24,-0.72,417,95,0.58062898,0.42,0.5,Sloping,Absent,Cha,Natural,Percolation,Pristine,Significant
+Orford 6,OR6,UK,1,31,0.135,1.16,-1.03,-1.26,-1.28,-0.24,-0.72,1443,369,0.133175232,0.87,0.5,Sloping,Present,Cha,Natural,Percolation,Pristine,Minimal
+Portishead,POR,UK,1,14.6,0.487,-3.12,0.27,-0.26,0.66,-2.17,-1.19,64369,1654,0.295675688,0.7,1,Sloping,Present,Absent,Artificial,Sluiced,Significant,Stable
+Sheerness,SHE,UK,1,30.9,0.188,1.1,-0.93,-0.05,0.25,0.26,1.76,42109,1235,0.346937206,0.65,0.5,Steep,Present,Rup,Semi,Sluiced,Significant,Stable
+Slaughden,SLA,UK,1,17,0.371,-2.65,0.45,-1.26,-1.28,-0.24,-0.72,5051,895,0.079239397,0.92,1,Steep,Present,Rup_Cha,Natural,Percolation,Pristine,Stable
+Snettisham,SNE,UK,0,22,0.141,-1.44,-0.65,-1.67,-1.98,0.42,0.72,58642,1221,0.494296243,0.51,2,Sloping,Present,Absent,Semi,Percolation,Significant,Minimal
+Marsh Farm lagoon 1,SWF1,UK,1,17.9,0.463,-2.18,0.87,0.13,0.13,0.35,0.3,3748,552,0.154572165,0.85,1.5,Steep,Absent,Cha,Semi,Percolation,Low,Stable
+Marsh Farm lagoon 2,SWF2,UK,1,27.3,0.425,0.47,1.29,0.13,0.13,0.35,0.3,734,147,0.426846038,0.57,0.3,Steep,Present,Absent,Semi,Percolation,Low,Significant
+Tollesbury,TOL,UK,1,32.3,0.0712,1.39,-1.72,0.13,0.13,0.64,-0.58,3470,229,0.831511719,0.17,2,Variable,Present,Cha,Artificial,Sluiced,Significant,Stable
+Wallasea,WAL,UK,1,30.7,0.213,0.86,0.5,0.13,0.13,0.35,0.3,274659,2080,0.797768765,0.2,0.25,Sloping,Present,Cha,Artificial,Sluiced,Pristine,Moderate
+Widewater,WI,UK,1,34.3,0.17,1.87,0.07,0.52,0.85,1.09,-0.41,21332,1320,0.15384861,0.85,0.66,Sloping,Present,Rup_Cha,Semi,Sluiced,Significant,Significant
+Weston Marine Lake,WSM,UK,1,22,0.11,-1.29,-0.99,-0.26,0.66,-2.17,-1.19,29754,757,0.65247438,0.35,2.5,Variable,Present,Absent,Artificial,Sluiced,Significant,Stable
